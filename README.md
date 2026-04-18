@@ -19,14 +19,13 @@ Um sistema web simples e estilizado para organizar sorteios de amigo secreto com
 
 amigo-secreto/
 │
-├── index.html
-├── app.js
-├── style.css
-└── assets/
-    ├── bg-cyberpunk.jpg
-    ├── neon-grid.png
-    └── glow.png
-
+├── index.html # Estrutura da aplicação
+├── app.js # Lógica do sistema
+├── style.css # Estilização cyberpunk
+└── assets/ # Imagens e recursos visuais
+├── bg-cyberpunk.jpg
+├── neon-grid.png
+└── glow.png
 
 ## 🧠 Como Funciona
 
